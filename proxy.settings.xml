@@ -5,5 +5,6 @@
     <option name="PROXY_PORT" value="3128" />
     <option name="PROXY_AUTHENTICATION" value="true" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="USE_PAC_URL" value="true" />
   </component>
 </application>
